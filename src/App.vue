@@ -16,7 +16,7 @@ export default {
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <AppTitle />
+  <AppTitle class="read-the-docs" />
 </template>
 
 <style scoped>

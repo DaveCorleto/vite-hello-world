@@ -8,8 +8,8 @@ export default {
     <h1>"La mia prima app con Vite!"</h1>
 </template>
 
-<style scoped>
+<style>
 .read-the-docs {
-    color: #888;
+    color: #fa3131;
 }
 </style>
